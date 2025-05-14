@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 <br/>
 AI 플랫폼을 활용한 웹개발 부트캠프 수료 - FrontEnd Devloper
 
+<br/>
+
 ## 🖤 Tech Stack 🖤
 
 📌 Platforms & Languages
